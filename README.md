@@ -33,5 +33,5 @@ An example dataset is provided under data/. The format is quite simple:
 MIT license
 
 ## Reference
-Jiayun Pang, Ivan Vulić. Specialising and Analysing Instruction-Tuned and Byte-Level Language Models for Organic Reaction Prediction. (2024) arXiv preprint arXiv:2405.10625
+Jiayun Pang and Ivan Vulić. Specialising and Analysing Instruction-Tuned and Byte-Level Language Models for Organic Reaction Prediction. (2024) arXiv preprint arXiv:2405.10625
 https://arxiv.org/abs/2405.10625
