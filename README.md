@@ -1,5 +1,5 @@
 # Training T5-type of Language Models for Organic Reaction Prediction
-This short tutorial provides a quick overview of the basic code functionality related to single-task fine-tuning and inference of T5-style models: this includes the original T5, FlanT5, as well as ByT5, and other T5-based models such as molT5 or nach0.
+This codebase covers functionality related to single-task fine-tuning and inference of T5-style models: this includes the original T5, FlanT5, as well as ByT5, and other T5-based models such as molT5 or nach0.
 
 ## Installation
 The requirement.txt file list all depending Python libraries and is provided to create a conda environment.
