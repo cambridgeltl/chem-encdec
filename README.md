@@ -1,4 +1,4 @@
-# Training T5-type of Language Models for Organic Reaction Prediction
+# Fine-Tuning T5-Style Language Models for Organic Reaction Prediction
 This codebase covers functionality related to single-task fine-tuning and inference of T5-style models: this includes the original T5, FlanT5, as well as ByT5, and other T5-based models such as molT5 or nach0.
 
 ## Installation
