@@ -18,8 +18,3 @@ python t5_infer.py \
 	--temperature 1.0 \
 	--tokenization "none" \
 	--infer_mode "search_beam"
-        
-
-
-# google/byt5-small
-# output/flant5b-mlm340k-e30-lr0005-adamw-linear-b64-prodmixed-spaces_20240110_09:33:16.75/checkpoint-186000/
